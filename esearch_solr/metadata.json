@@ -1,0 +1,21 @@
+{
+  "name": "lwfadmin-esearch_solr",
+  "license": "Apache 2.0",
+  "author": "LWFAdmin",
+  "dependencies": [
+    { "name": "puppet/archive", "version_requirement": "= 0.5.1" },
+    { "name": "puppetlabs/stdlib", "version_requirement": "4.3.x" }
+  ],
+  "source": "https://github.allstate.com/EnterpriseSearchServices/puppet-solr",
+  "project_page": "https://github.allstate.com/EnterpriseSearchServices/puppet-solr",
+  "issues_url": "https://github.allstate.com/EnterpriseSearchServices/puppet-solr",
+  "requirements": [
+    { "name": "puppet", "version_requirement": "3.x" }
+  ],
+  "summary": "A Puppet module which installs and configures Apache Solr.",
+  "tags": [
+     "solr",
+    "search"
+  ],
+  "version": "0.5.0"  
+}

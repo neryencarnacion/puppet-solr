@@ -1,0 +1,4 @@
+# /data/security/sudo.yaml
+#
+srchadm_su:
+  line: '%srchadmn    ALL=NOPASSWD: /bin/su - lwfadmin'

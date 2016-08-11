@@ -1,0 +1,13 @@
+# /data/security/user.yaml
+#
+---
+lwfadmin:
+  uid:      '32329'
+  gid:      '3487'
+  comment:  'Lucidworks Fusion App ID.'
+  groups:
+    - srchadmn
+    - localin
+  home:     '/apps/enterprise_search'
+  shell:    '/bin/bash'
+  password: 'Nery1!'

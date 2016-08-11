@@ -1,0 +1,7 @@
+# /data/security/group.yaml
+#
+---
+srchadmn:
+  gid: '3487'
+localin:
+  gid: '3109'

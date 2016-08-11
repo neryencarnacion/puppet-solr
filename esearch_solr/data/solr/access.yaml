@@ -1,0 +1,5 @@
+# /data/security/access.yaml
+#
+---
+srchadmn_access:
+  line: '+:@ESEARCH_UX_ALL:ALL'

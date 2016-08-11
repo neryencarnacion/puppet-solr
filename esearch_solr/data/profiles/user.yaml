@@ -1,0 +1,23 @@
+# /data/security/user.yaml
+#
+# EXAMPLE
+# ------------------------------------------------------------------
+#
+# ---
+# appuser1:
+#   uid: 21234
+#   gid: 9123
+#   comment: App1 ID Comment
+#   groups:                    (optional list of secondary groups)
+#     - localin
+#   home: /apps/home/App1
+#   shell: /bin/bash
+#   password: hash_hash_hash   (optional: use gen_hash script)
+#   ssh_keys:                  (optional hash for user authorized_keys)
+#     app1@myhost:
+#       user: app1
+#       type: ssh-rsa          (options: ssh-rsa ssh-dss)
+#       key: AAAAB3Nza...Xnk=
+#
+---
+

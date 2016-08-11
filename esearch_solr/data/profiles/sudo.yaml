@@ -1,0 +1,16 @@
+# /data/security/sudo.yaml
+#
+# EXAMPLE
+# ------------------------------------------------------------
+#
+# ---
+# appgroup1_su:
+#   line: '%appgroup1    ALL=NOPASSWD: /bin/su - appuser1'
+# appgroup1_app1d:
+#   line: '%appgroup1    ALL=NOPASSWD: /apps/home/App1/sbin/app1d'
+#esearch_solr_group_appexec:
+#    line: '%group1    ALL=NOPASSWD: /apps/home/sbin/appexec'
+# ---
+# /etc/sudoers.conf
+
+  

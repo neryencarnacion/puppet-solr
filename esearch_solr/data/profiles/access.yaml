@@ -1,0 +1,13 @@
+# /data/security/access.yaml
+#
+# EXAMPLE
+# -------------------------------------------------------------
+#
+# ---
+# appgroup1_access:
+#   line: '+:@APP1_UX_ALL:ALL'
+# appgroup2_access:
+#   line: '+:@APP2_UX_ALL:ALL'
+#
+---
+
