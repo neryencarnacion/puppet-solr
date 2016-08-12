@@ -13,9 +13,6 @@
     { "name": "puppet", "version_requirement": "3.x" }
   ],
   "summary": "A Puppet module which installs and configures Apache Solr.",
-  "tags": [
-     "solr",
-    "search"
-  ],
+  "tags": [ "solr", "search"],
   "version": "0.5.0"  
 }
